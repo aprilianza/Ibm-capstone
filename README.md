@@ -53,5 +53,5 @@ Bot ini memanfaatkan Google Gemini Pro API untuk menghasilkan respon berkualitas
 - Memberikan pengalaman interaksi yang lebih natural dan manusiawi
 
 📸 Pratinjau UI
-
+<img width="1396" height="799" alt="Screenshot 2025-07-20 at 15 55 47" src="https://github.com/user-attachments/assets/42b2bf9f-88bd-44b1-9355-6b6df1f4317f" />
 
